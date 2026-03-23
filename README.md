@@ -128,13 +128,13 @@ Open `notebooks/plots.nb` in Mathematica. It reads the SDPB output directories, 
 **Lower bound on the UV central charge** (Figure 2 from [arXiv:2212.03917](https://arxiv.org/abs/2212.03917)): for ℤ₂-symmetric QFTs with a single stable particle, the minimum central charge interpolates between the free boson (c = 1) and the free fermion (c = 1/2) as a function of the quartic coupling Λ.
 
 <p align="center">
-  <img src="cuv_bound.jpg" width="500"/>
+  <img src="cuv_bound.png" width="500"/>
 </p>
 
 **Allowed region for Ising Field Theory** (Figure 20 from [arXiv:2212.03917](https://arxiv.org/abs/2212.03917)): fixing the UV central charge to c = 1/2 and imposing a zero in the S-matrix at x = 1/10, the bootstrap carves out the allowed region in the (gF₁, g²) plane. The dashed lines show perturbation theory.
 
 <p align="center">
-  <img src="ift_allowed_region.jpg" width="500"/>
+  <img src="ift_allowed_region.png" width="500"/>
 </p>
 
 ---
