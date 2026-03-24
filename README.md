@@ -9,6 +9,8 @@ This repository contains the code used to produce the results in:
 
 ---
 
+The code is built on a basis that was shared to me by [Denis Karateev](https://sites.google.com/site/dskarateev/home)
+
 ## What this project does
 
 We want to answer: *given only fundamental physical principles, what scattering processes are mathematically possible?*
