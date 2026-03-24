@@ -7,9 +7,9 @@ This repository contains the code used to produce the results in:
 - M. Correia, J. Penedones, A. Vuignier — *Injecting the UV into the Bootstrap: Ising Field Theory*, [arXiv:2212.03917](https://arxiv.org/abs/2212.03917)
 - L. Córdova, M. Correia, A. Georgoudis, A. Vuignier — *The O(N) Monolith reloaded: Sum rules and Form Factor Bootstrap*, [arXiv:2311.03031](https://arxiv.org/abs/2311.03031)
 
----
-
 The code is built on a basis that was shared to me by [Denis Karateev](https://sites.google.com/site/dskarateev/home)
+
+---
 
 ## What this project does
 
